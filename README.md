@@ -7,7 +7,7 @@
 
 
 ```bin
-Create a Google Cloud Project
+Create a Google Sheet 
 Enable Google Sheets API
 Responsive design with Tailwind CSS
 Smooth animations using AOS (Animate On Scroll)
