@@ -7,10 +7,8 @@ export default function ContactUs() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle form submission (e.g., sending email or saving data)
     console.log({ name, email, message });
     alert("Message sent successfully!");
-    // Reset the form
     setName('');
     setEmail('');
     setMessage('');
@@ -30,7 +28,6 @@ export default function ContactUs() {
       </a>
     </p>
   
-    {/* Contact Form */}
     <form onSubmit={handleSubmit} className="max-w-md mx-auto space-y-6">
       <input
         type="text"
