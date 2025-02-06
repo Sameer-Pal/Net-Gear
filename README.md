@@ -57,7 +57,8 @@ http://localhost:3000
 │   │   ├── Services.jsx
 │   │   ├── WhyChooseUs.jsx
 │   │   ├── ContactUs.jsx
-│   ├── Home.jsx
+│   ├──pages/
+    |    |--Home.jsx
 │   ├── App.jsx
 │   ├── index.js
 │── public/
