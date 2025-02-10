@@ -1,5 +1,4 @@
-# Net Gear Assigment 
-
+# Net Gear 
 ## Fetching Testimonials from Google Sheets
 ### Setup and Configuration
 
